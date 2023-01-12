@@ -1,26 +1,26 @@
 export const comments = [
   {
     id: 1,
-    text: "This is the first comment",
+    comment: "This is the first comment",
   },
   {
     id: 2,
-    text: "This is the second comment",
+    comment: "This is the second comment",
   },
   {
     id: 3,
-    text: "This is the third comment",
+    comment: "This is the third comment",
   },
   {
     id: 4,
-    text: "This is the fourth comment",
+    comment: "This is the fourth comment",
   },
   {
     id: 5,
-    text: "This is the fifth comment",
+    comment: "This is the fifth comment",
   },
   {
     id: 6,
-    text: "This is the sixth comment",
+    comment: "This is the sixth comment",
   },
 ];
